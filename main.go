@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"go-home/call"
-	_ "go-home/help"
+	"github.com/lgn21st/go-home/call"
+	_ "github.com/lgn21st/go-home/help"
 )
 
 func main() {

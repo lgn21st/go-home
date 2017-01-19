@@ -13,7 +13,7 @@ import (
 
 	"github.com/olekukonko/tablewriter"
 
-	"go-home/util"
+	"github.com/lgn21st/go-home/util"
 )
 
 func call(train string) (datas []byte) {
